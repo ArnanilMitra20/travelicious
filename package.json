@@ -1,0 +1,26 @@
+{
+  "name": "travelicious",
+  "version": "1.0.0",
+  "description": "This is a travel website with Full Stack features under progress.  \r Languages used-HTML,CSS,JavaScript,Express,Mongo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArnanilMitra20/travelicious.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArnanilMitra20/travelicious/issues"
+  },
+  "homepage": "https://github.com/ArnanilMitra20/travelicious#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "method-override": "^3.0.0",
+    "mongoose": "^8.9.6"
+  }
+}
