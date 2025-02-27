@@ -15,6 +15,7 @@ Travelicious is an Airbnb-type travel website that allows users to discover and 
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB,Cloudinary(images)
 - **Authentication:** Passport
+- **Hosting:** Render
 
 ## 🚀 Installation & Setup
 
